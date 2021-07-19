@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-helloworld",
+  "version": "1.0.0",
+  "description": "ci-cd-nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahidla/nodejs-helloworld.git"
+  },
+  "author": "shahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahidla/nodejs-helloworld/issues"
+  },
+  "homepage": "https://github.com/shahidla/nodejs-helloworld#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

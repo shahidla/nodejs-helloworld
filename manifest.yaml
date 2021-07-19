@@ -1,0 +1,6 @@
+---
+applications:
+- name: nodejs-helloworld
+  random-route: true
+  path: nodejs-helloworld
+  memory: 128M
