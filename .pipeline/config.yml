@@ -1,6 +1,6 @@
 ---
 general:
-  buildTool: "npm"
+  buildTool: "general"
 stages:
   Build:
     mavenExecuteStaticCodeChecks: false
@@ -16,7 +16,7 @@ stages:
     cfApiEndpoint: "https://api.cf.eu10.hana.ondemand.com"
     cfOrg: "86e2f670trial"
     cfSpace: "dev"
-    cfAppName: "node-hello"
+    cfAppName: "nodehw"
     cfCredentialsId: "cfdeploy"
     tmsUpload: false
 steps:
